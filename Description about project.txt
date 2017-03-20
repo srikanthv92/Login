@@ -1,0 +1,6 @@
+Login/Registration:
+ 	A simple login and registration page with database connectivity.
+ 	Developed the site using CakePHP’s MVC pattern.
+ 	Database was created using MySQL and Xampp.
+ 	Designed the site such that only a user with correct credentials can login or an error is thrown.
+ 	If a user wants to register he can do so by using the registration tab.
